@@ -1,6 +1,6 @@
 ## Microsoft Docs AZ-303 study guide resources
 
-Here are the relevant Microsoft Docs which I will be using to prepare and study for the AZ-303 exam.
+Here are the Microsoft Docs which I will be using to prepare and study for the AZ-303 exam.
 
 ### Implement and Monitor an Azure Infrastructure (50-55%)
 
